@@ -140,7 +140,7 @@ function Cart() {
           <div className="cart__bottom">
             <div className="cart__bottom-details">
               <span>
-                Pizzas: <b>{totalCount} шт.</b>
+                Pizzas: <b>{totalCount} </b>
               </span>
               <span>
                 Sum: <b>{totalPrice} $</b>
